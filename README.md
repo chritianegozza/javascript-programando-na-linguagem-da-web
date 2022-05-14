@@ -1,4 +1,4 @@
-# Curso da alura javascript programando na linguagem da web
+# 🚀Curso da alura javascript programando na linguagem da web
 **************************************************************************************************************
 Versão do professor
 
@@ -11,19 +11,19 @@ minha versão
 
 
 *************************************************************************************************************
-Projeto
+👩🏻‍💻 Projeto
 
-Prática da aula de js, feito o projeto para estudar o js e dom, variaveis, array, querySelector(),
+Prática da aula de js, feito o projeto para estudar o js,  dom, variaveis, array, querySelector(),
 loop for, propriedade chamada length e querySelectorAll() 
 
 ***********************************************************************************************************
-Linguagem
+📌 Linguagem
 
-HTML
+✅ HTML
 
-CSS
+✅ CSS
 
-JS
+✅ JS
 
 
 ***********************************************************************************************************
