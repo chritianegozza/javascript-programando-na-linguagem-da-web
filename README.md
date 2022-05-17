@@ -29,8 +29,20 @@ Prática da aula de js, feito o projeto para estudar o js,  dom, variaveis, arra
 loop for, propriedade chamada length, appendChild, textContent, addEventListener, createElement
 value, event.preventDefault() e querySelectorAll() 
 
+📌 A diferença entre as funções nomeadas e as funções anônimas
+
+📌 A escutar eventos do browser com a função addEventListener()
+
+📌 Que a função criadora de elementos é .createElement()
+
+📌 A pegar o valor de um input por meio da propriedade .value
+
+📌 A acessar os input de um form por meio da propriedade .name
+
+📌 A adicionar elementos na página e dentro de outros elementos com a função appendChild()
+
 ***********************************************************************************************************
-📌 Linguagem
+🌱 Linguagem
 
 ✅ HTML
 
