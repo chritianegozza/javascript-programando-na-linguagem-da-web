@@ -20,6 +20,11 @@ Adicionando mais pacientes : agora com tudo funcionando e adicionando ok
 
 ![image](https://user-images.githubusercontent.com/72118415/168856587-b5ba025f-2ff7-43e4-999b-a75a0dc96bed.png)
 
+Agora adicionamos e calculamos o icm com sucesso nos novos pacientes
+
+![image](https://user-images.githubusercontent.com/72118415/168865771-3d079b21-bc4e-427a-b874-9cef0158a047.png)
+
+
 
 
 *************************************************************************************************************
