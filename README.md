@@ -26,7 +26,8 @@ Adicionando mais pacientes : agora com tudo funcionando e adicionando ok
 👩🏻‍💻 Projeto
 
 Prática da aula de js, feito o projeto para estudar o js,  dom, variaveis, array, querySelector(),
-loop for, propriedade chamada length e querySelectorAll() 
+loop for, propriedade chamada length, appendChild, textContent, addEventListener, createElement
+value, event.preventDefault() e querySelectorAll() 
 
 ***********************************************************************************************************
 📌 Linguagem
